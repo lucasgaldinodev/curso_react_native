@@ -1,3 +1,3 @@
-# Curso React Native
+# Curso Next.JS
 
-Arquivos, atividades e códigos do curso [React Native - Desenvolva APPs Nativas para Android e iOS](https://www.cod3r.com.br/courses/reactnative) da [Cod3r](https://www.cod3r.com.br).
+Arquivos, atividades e códigos do curso [Next.js & React - Curso Completo - Totalmente Baseado em Projetos](https://www.cod3r.com.br/courses/nextjs) da [Cod3r](https://www.cod3r.com.br).
